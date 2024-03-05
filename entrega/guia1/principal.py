@@ -12,4 +12,4 @@
 
 #print (type(23))
 
-valor = 23
+#valor = 23
