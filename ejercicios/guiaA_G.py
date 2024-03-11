@@ -1,8 +1,13 @@
+#a
 print ("Las máquinas me sorprenden con mucha frecuencia.")
+#b
 print()
+#c
 print("Aguante River Plate")
-print(23)
+#d
+print(23 ,"23")
+#e
 print("Una computadora puede ser llamada \"inteligiente\" si logra engañar a una persona haciéndole creer que es humano.")
-print("texto \"Destacado\" sigue con el texto")
-print('texto "Destacado" sigue con el texto')
-print (6%5)
+#f y g
+print("Nombre", "Apellido", "Edad", sep='_')
+
