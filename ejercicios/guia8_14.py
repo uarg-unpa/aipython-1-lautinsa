@@ -37,4 +37,31 @@
 
 # print(f"Su sueldo es: {sueldoHora}")
 
-#12 cant a invertir, interes anual y numero de años, mostrar capital por inversion
+#12 cant a invertir, interes anual y numero de años, mostrar capital por inversion // importe X interes% / 100 = capital.
+# cantidadInvertida=float(input("Cantidad a invertir: "))
+# interesAnual=float(input("Interés anual: "))
+# añosInversion=int(input("Años de inversión: "))
+
+# capital= cantidadInvertida*interesAnual/100
+
+# print(f"Su capital obtenida por la inversión seria de: {capital}")
+
+#13 promedio de 10 productos
+# producto1=float(input("Ingrese precio del producto 1 :"))
+# producto2=float(input("Ingrese precio del producto 2 :"))
+# producto3=float(input("Ingrese precio del producto 3 :"))
+# producto4=float(input("Ingrese precio del producto 4 :"))
+# producto5=float(input("Ingrese precio del producto 5 :"))
+# producto6=float(input("Ingrese precio del producto 6 :"))
+# producto7=float(input("Ingrese precio del producto 7 :"))
+# producto8=float(input("Ingrese precio del producto 8 :"))
+# producto9=float(input("Ingrese precio del producto 9 :"))
+# producto10=float(input("Ingrese precio del producto 10 :"))
+
+# promedio10=(producto1+producto2+producto3+producto4+producto5+producto6+producto7+producto8+producto9+producto10)/10
+
+# print(f"El promedio de los productos es {promedio10}")
+
+#14 concatenar
+# resultado= 'Una ambiciosa' + ' ' + 'Introducción' + ' ' + 'a Python' + ' ' + 'Parte 1'
+# print(resultado)

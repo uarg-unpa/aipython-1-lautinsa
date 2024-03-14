@@ -13,3 +13,6 @@
 #print (type(23))
 
 #valor = 23
+# mylist = ["apple", "banana", "cherry"]
+# x = len(mylist)
+# print(x)
