@@ -63,11 +63,26 @@
 #     numeroSemana > 7
 #     print("No existe otro dia")
  
-#7
-calificacion=float(input("Ingrese calificación: "))
-if calificacion >=80:
-    print("A")
-elif calificacion >=70:
-    print("B")
-       
-       
+#7 utilizacion de and para capar la variable 
+# calificacion=int(input("Ingrese calificación: "))
+# if calificacion >=100 and calificacion >= 80:
+#     print("A")
+# elif calificacion >=70 and calificacion < 79:
+#     print("B")
+# elif calificacion >=60 and calificacion < 69:
+#     print("C")
+# elif calificacion >=50 and calificacion < 59:
+#     print("D")
+# elif calificacion >=0 and calificacion < 49:
+#     print("F")
+
+#8 edad? mostrar el precio de la entrada, cliete < 4 = gratis, cliente >=4 and cliente <=18, paga 5 , cliente > 18, paga 10
+
+edadCliente=int(input("Ingrese su edad: "))
+if edadCliente < 4:
+    print("Pase gratis!")
+elif edadCliente >=4 and edadCliente <=18:
+    print("Paga 5")
+else:
+    edadCliente > 18
+    print("Paga 10")
