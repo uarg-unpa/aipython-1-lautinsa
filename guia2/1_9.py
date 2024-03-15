@@ -37,8 +37,37 @@
 #     print("Los números son iguales")
 
 #5
-num=int(input("Ingrese un número"))
-if num % 2 == 0:
-    print("El numero es par")
-else:
-    print("El numero es impar")
+# num=int(input("Ingrese un número: "))
+# if num c:
+#     print("El numero es par")
+# else:
+#     print("El numero es impar")
+
+#6
+# numeroSemana=int(input("Ingrese un número del 1 al 7: "))
+# if numeroSemana == 1:
+#     print("Hoy es Lunes")
+# elif numeroSemana ==2:
+#     print("Hoy es Martes")
+# elif numeroSemana ==3:
+#     print("Hoy es Miercoles")
+# elif numeroSemana ==4:
+#     print("Hoy es Jueves")
+# elif numeroSemana ==5:
+#     print("Hoy es Viernes")
+# elif numeroSemana ==6:
+#     print("Hoy es Sabado")
+# elif numeroSemana ==7:
+#     print("Hoy es Domingo")
+# else:
+#     numeroSemana > 7
+#     print("No existe otro dia")
+ 
+#7
+calificacion=float(input("Ingrese calificación: "))
+if calificacion >=80:
+    print("A")
+elif calificacion >=70:
+    print("B")
+       
+       
