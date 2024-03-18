@@ -78,11 +78,21 @@
 
 #8 edad? mostrar el precio de la entrada, cliete < 4 = gratis, cliente >=4 and cliente <=18, paga 5 , cliente > 18, paga 10
 
-edadCliente=int(input("Ingrese su edad: "))
-if edadCliente < 4:
-    print("Pase gratis!")
-elif edadCliente >=4 and edadCliente <=18:
-    print("Paga 5")
-else:
-    edadCliente > 18
-    print("Paga 10")
+# edadCliente=int(input("Ingrese su edad: "))
+# if edadCliente < 4:
+#     print("Pase gratis!")
+# elif edadCliente >=4 and edadCliente <=18:
+#     print("Paga 5")
+# else:
+#     edadCliente > 18
+#     print("Paga 10")
+
+#9 impuesto=x, 18 > para pagar el impuesto, y tambien tiene que tener $100000 > ingresos   
+
+# ingresosMensuales=int(input("Ingresos mensuales: "))
+# edadUsuario=int(input("Ingrese su edad: "))
+
+# if edadUsuario > 18 and ingresosMensuales >= 100000:
+#     print("Tienes que pagar impuestos")
+# else:
+#     print("No debes pagar impuestos")
